@@ -10,22 +10,21 @@ Variation 2: the randomly chosen position is forced to be different, i.e. new po
 
 ### Development platform: 
 + Windows 10;
-+Unity Version: 2019.1.14f1;
-+Visual Studio 2017
++ Unity Version: 2019.1.14f1;
++ Visual Studio 2017
 
 ### Target platform:
 WebGL incl. reference resolution 960x600
 
 ### Visuals: 
-Screenshots (concept and experience), Video
 
 ### Necessary setup/execution steps: 
 WebGL has to be installed
 
 ### Third party material: 
-+ https://www.google.com/search?q=ball+png&sxsrf=ACYBGNQ4Yr_O8ldVvPaNVNVg781Rlnit8Q:1579006687053&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjn17elkoPnAhVEyYsBHfuTBNIQ_AUoAXoECAsQAw&biw=1536&bih=711#imgrc=Hl7b0uzBfGBULM:
++ Ball: https://www.freepngimg.com/png/10701-beach-ball-picture
 
-+ https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template
++ Template: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template
 
 ### Project state: 
 in progress
@@ -34,8 +33,10 @@ in progress
 Todo
 
 ### Lessons Learned: 
-Todo
++ build GUI
++ improved my scripting 
 
 
-Origional Readme by smeerws/ copied by jstreitberger
+Origional Readme by smeerws / copied by jstreitberger
+
 Copyright by jstreitber:)
